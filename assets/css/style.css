@@ -1,0 +1,12 @@
+* {
+  background-color: tan;
+}
+
+p {
+  text-indent: 20px;
+  width: 750px;
+  overflow-wrap: break-word;
+}
+#title {
+  color: brown;
+}
